@@ -25,4 +25,20 @@ Created using Inkscape Vector Graphics Editor
 
 2. Following the same technique as the Superman emblem, I recreated the Batman vector image, but only made half of the design and mirrored it as a means of improving workflow.
 
-3. 
+3. Worked with modifying text paths to create shapes. In this case, I streched and modified the word "Rhino" into the shape of the animal.
+
+4. Began using skills I had been developing to vectorize a picture of a falcon.
+
+5. Decided to work with basic shadows by making this mountain landscape below.
+
+###### Experiementation with realistic materials and shadings
+
+1. Created a personal logo for use on USB drives
+
+2. Created a realistic eyeball using highlights and shadows based on an online tutorial.
+
+3. Followed an online tutorial to create a realistic vector donut.
+
+4. Followed and modified an online tutorial to generate a metallic Flash emblem
+
+5. Used a previous vector design and metallic texturing skills to create a metallic Superman emblem
