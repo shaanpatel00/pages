@@ -4,7 +4,7 @@
 
 Created using Inkscape Vector Graphics Editor
 
-#####Using my first name for some fun designs to help learn the program
+######Using my first name for some fun designs to help learn the program
 
 1. This was my very first vector design made by following an online tutorial:
 ![Shaan Graffiti SVG](./assets/shaan-graffiti.svg)
