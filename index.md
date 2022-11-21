@@ -19,3 +19,10 @@ Created using Inkscape Vector Graphics Editor
 
 5. Neon text effect created with multiple layers, each with different amounts of blur and different saturations to give the illusion of light emitting onto the background.
 
+###### More Practice with basic vectorization and simple designs
+
+1. Recreated the popular Superman emblem using bezier curves and paths
+
+2. Following the same technique as the Superman emblem, I recreated the Batman vector image, but only made half of the design and mirrored it as a means of improving workflow.
+
+3. 
