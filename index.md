@@ -7,7 +7,7 @@ Created using Inkscape Vector Graphics Editor
 ###### Using my first name for some fun designs to help learn the program
 
 1. This was my very first vector design made by following an online tutorial:
-![Shaan Graffiti SVG](./assets/image17.png)
+![Shaan Graffiti SVG](./assets/graffiti.png)
 
 
 2. Glitch effect with my name. First time using boolean operations with vectors to make interesting designs.
