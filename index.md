@@ -65,10 +65,22 @@ Created using Inkscape Vector Graphics Editor
 [![Watch the video](https://img.youtube.com/vi/GJv-U65XNjk/maxresdefault.jpg)](https://youtu.be/GJv-U65XNjk)
 
 3. 3D logo animation rendered using Blender and composited with Adobe Premiere Pro for Georgia Tech Ramblin' Raas Team
-4. 3D medieval-themed animation rendered using Blender and composited with Adobe Premiere Pro for 2021-22 Georgia Tech Ramblin' Raas set
-5. First attempt at rendering a full animation with full procedural textures. Rendered using Blender Cycles engine.
-6. 3D animation for promotional video of filament printed skateboard protectors. Rendered using traditional tri-point colored lighting setup in Blender Eevee.
-7. Low poly lighthouse animation using Blender with moving waves. Rendered in Blender Cycles.
-8. Research presentation video for annual Plant the Moon Challenge. Rendered 3D rocket footage in Blender Cycles, created information graphics in Canva, designed custom logo in Adobe Illustrator and Inkscape, and composited footage in Adobe Premiere Pro.
-9.  
- 
+[![Watch the video](https://img.youtube.com/vi/dciWe07h1lU/maxresdefault.jpg)](https://youtu.be/dciWe07h1lU)
+
+5. 3D medieval-themed animation rendered using Blender and composited with Adobe Premiere Pro for 2021-22 Georgia Tech Ramblin' Raas set
+[![Watch the video](https://img.youtube.com/vi/rcvkA5g83Gw/maxresdefault.jpg)](https://youtu.be/rcvkA5g83Gw)
+
+7. First attempt at rendering a full animation with full procedural textures. Rendered using Blender Cycles engine.
+[![Watch the video](https://img.youtube.com/vi/gqqmBy4mpbA/maxresdefault.jpg)](https://youtu.be/gqqmBy4mpbA)
+
+9. 3D animation for promotional video of filament printed skateboard protectors. Rendered using traditional tri-point colored lighting setup in Blender Eevee.
+[![Watch the video](https://img.youtube.com/vi/QMTbAR0lh00/maxresdefault.jpg)](https://youtu.be/QMTbAR0lh00)
+
+11. Low poly lighthouse animation using Blender with moving waves. Rendered in Blender Cycles.
+[![Watch the video](https://img.youtube.com/vi/d1lLxWKWCDo/maxresdefault.jpg)](https://youtu.be/d1lLxWKWCDo)
+
+13. Research presentation video for annual Plant the Moon Challenge. Rendered 3D rocket footage in Blender Cycles, created information graphics in Canva, designed custom logo in Adobe Illustrator and Inkscape, and composited footage in Adobe Premiere Pro.
+[![Watch the video](https://img.youtube.com/vi/KyAGe81oZ-o/maxresdefault.jpg)](https://youtu.be/KyAGe81oZ-o)
+
+15. Render test of lighting shadows for upcoming underwater sequence. Custom made by altering the Voronoi present in Blender and changing distortion and evolution levels.
+[![Watch the video](https://img.youtube.com/vi/YNA_-XpOnXo/maxresdefault.jpg)](https://youtu.be/YNA_-XpOnXo)
