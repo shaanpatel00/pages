@@ -55,4 +55,4 @@ Created using Inkscape Vector Graphics Editor
 ![Flash SVG](./assets/flash.png)
 
 5. Used a previous vector design and metallic texturing skills to create a metallic Superman emblem
-![Superman Metallic SVG](./assets/superman-metallic.png)
+![Superman Metallic SVG](./assets/superman-metal.png)
