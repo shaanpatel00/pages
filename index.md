@@ -60,3 +60,15 @@ Created using Inkscape Vector Graphics Editor
 ## VFX Projects and 3D Animation
 1. Using Adobe After Effects to animate an introduction sequence for dance competition
 [![Watch the video](https://img.youtube.com/vi/VQMv1U2JWqg/maxresdefault.jpg)](https://youtu.be/VQMv1U2JWqg)
+
+2. VFX Project using Adobe After Effects and Adobe Premiere Pro to create a motion tracking mask on moving wheels while compositing moving footage on top of the base footage.
+[![Watch the video](https://img.youtube.com/vi/GJv-U65XNjk/maxresdefault.jpg)](https://youtu.be/GJv-U65XNjk)
+
+3. 3D logo animation rendered using Blender and composited with Adobe Premiere Pro for Georgia Tech Ramblin' Raas Team
+4. 3D medieval-themed animation rendered using Blender and composited with Adobe Premiere Pro for 2021-22 Georgia Tech Ramblin' Raas set
+5. First attempt at rendering a full animation with full procedural textures. Rendered using Blender Cycles engine.
+6. 3D animation for promotional video of filament printed skateboard protectors. Rendered using traditional tri-point colored lighting setup in Blender Eevee.
+7. Low poly lighthouse animation using Blender with moving waves. Rendered in Blender Cycles.
+8. Research presentation video for annual Plant the Moon Challenge. Rendered 3D rocket footage in Blender Cycles, created information graphics in Canva, designed custom logo in Adobe Illustrator and Inkscape, and composited footage in Adobe Premiere Pro.
+9.  
+ 
