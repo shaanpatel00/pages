@@ -57,4 +57,6 @@ Created using Inkscape Vector Graphics Editor
 5. Used a previous vector design and metallic texturing skills to create a metallic Superman emblem
 ![Superman Metallic SVG](./assets/superman-metal.png)
 
-## VFX Experiments
+## VFX Projects and 3D Animation
+1. Using Adobe After Effects to animate an introduction sequence for dance competition
+[![Watch the video](https://img.youtube.com/vi/VQMv1U2JWqg/maxresdefault.jpg)](https://youtu.be/VQMv1U2JWqg)
