@@ -1,86 +1,222 @@
-# Shaan Patel College Portfolio
+# Shaan Patel Design & Animation Portfolio
+
+---
+
+## 3D Animation
+
+3D medieval-themed animation rendered using Blender and composited with Adobe Premiere Pro for 2021-22 Georgia Tech Ramblin' Raas set
+
+[![Watch the video](https://img.youtube.com/vi/rcvkA5g83Gw/maxresdefault.jpg)](https://youtu.be/rcvkA5g83Gw)
+<iframe width="1428" height="777" src="https://www.youtube.com/embed/rcvkA5g83Gw" title="GTRR Medieval Cave Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### 3D Logo Animation
+
+3D logo animation rendered using Blender and composited with Adobe Premiere Pro for Georgia Tech Ramblin' Raas Team
+
+[![Watch the video](https://img.youtube.com/vi/dciWe07h1lU/maxresdefault.jpg)](https://youtu.be/dciWe07h1lU)
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/dciWe07h1lU" title="GTRRLogoIntro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+#### Blender Cycles for Plant the Moon Challenge
+
+Research presentation video for annual Plant the Moon Challenge. Rendered 3D rocket footage in Blender Cycles, created information graphics in Canva, designed custom logo in Adobe Illustrator and Inkscape, and composited footage in Adobe Premiere Pro.
+
+[![Watch the video](https://img.youtube.com/vi/KyAGe81oZ-o/maxresdefault.jpg)](https://youtu.be/KyAGe81oZ-o)
+<iframe width="1280" height="719" src="https://www.youtube.com/embed/KyAGe81oZ-o" title="Final PTMC Video1.3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+#### Rendering with Blender Cycles engine
+
+First attempt at rendering a full animation with full procedural textures. Rendered using Blender Cycles engine.
+
+[![Watch the video](https://img.youtube.com/vi/gqqmBy4mpbA/maxresdefault.jpg)](https://youtu.be/gqqmBy4mpbA)
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/gqqmBy4mpbA" title="Audi Night Render First Attempt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+#### Blender Eevee
+
+3D animation for promotional video of filament printed skateboard protectors. Rendered using traditional tri-point colored lighting setup in Blender Eevee.
+
+[![Watch the video](https://img.youtube.com/vi/QMTbAR0lh00/maxresdefault.jpg)](https://youtu.be/QMTbAR0lh00)
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/QMTbAR0lh00" title="Skateboard Protector Animated Promo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+#### Low Poly
+
+Low poly lighthouse animation using Blender with moving waves. Rendered in Blender Cycles.
+
+[![Watch the video](https://img.youtube.com/vi/d1lLxWKWCDo/maxresdefault.jpg)](https://youtu.be/d1lLxWKWCDo)
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/d1lLxWKWCDo" title="Low Poly Lighthouse Render" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+#### Lighting Shadows
+
+Render test of lighting shadows for upcoming underwater sequence. Custom made by altering the Voronoi present in Blender and changing distortion and evolution levels.
+
+[![Watch the video](https://img.youtube.com/vi/YNA_-XpOnXo/maxresdefault.jpg)](https://youtu.be/YNA_-XpOnXo)
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/YNA_-XpOnXo" title="Procedural Voronoi Light Source Water Shadow Caster Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Video Composition, 2D Animation, and Visual Effects
+
+### Adobe After Effects
+
+Using Adobe After Effects to animate an introduction sequence for dance competition
+
+[![Watch the video](https://img.youtube.com/vi/VQMv1U2JWqg/maxresdefault.jpg)](https://youtu.be/VQMv1U2JWqg)
+<iframe width="1280" height="722" src="https://www.youtube.com/embed/VQMv1U2JWqg" title="Shaan Dhoom Dynasty Dance Round 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### Adobe After Effects and Adobe Premiere Pro
+
+VFX Project using Adobe After Effects and Adobe Premiere Pro to create a motion tracking mask on moving wheels while compositing moving footage on top of the base footage.
+
+[![Watch the video](https://img.youtube.com/vi/GJv-U65XNjk/maxresdefault.jpg)](https://youtu.be/GJv-U65XNjk)
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/GJv-U65XNjk" title="Hoverboard VFX Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 ## SVG Images
 
 Created using Inkscape Vector Graphics Editor
 
-###### Using my first name for some fun designs to help learn the program
+### Designs using my first name
 
-1. This was my very first vector design made by following an online tutorial:
+These were just some fun designs to help learn the program
+
+---
+
+#### Graffiti
+
+I first started off learning vector designs using my name:
+
 ![Shaan Graffiti SVG](./assets/graffiti.png)
 
+---
 
-2. Glitch effect with my name. First time using boolean operations with vectors to make interesting designs.
+#### Glitch Effect
+
+Glitch effect with my name. First time using boolean operations with vectors to make interesting designs.
+
 ![Shaan Glitch SVG](./assets/glitch-text.png)
 
-3. Carved wood effect generated by adding Gaussian blur to text and adding layer masks to images.
+---
+
+#### Wood Carving
+
+Carved wood effect generated by adding Gaussian blur to text and adding layer masks to images.
+
 ![Shaan Carved Wood SVG](./assets/wood-carving.png)
 
-4. Liquid text style created using a combination of skills learned previously like boolean operations, layer masks, and blurs along with new skills like vignette.
+---
+
+#### Liquid Text
+
+Liquid text style created using a combination of skills learned previously like boolean operations, layer masks, and blurs along with new skills like vignette.
+
 ![Shaan Liquid Text SVG](./assets/liquid.png)
 
-5. Neon text effect created with multiple layers, each with different amounts of blur and different saturations to give the illusion of light emitting onto the background.
+---
+
+#### Neon Text
+
+Neon text effect created with multiple layers, each with different amounts of blur and different saturations to give the illusion of light emitting onto the background.
+
 ![Shaan Neon SVG](./assets/neon.png)
 
-###### More Practice with basic vectorization and simple designs
+---
 
-1. Recreated the popular Superman emblem using bezier curves and paths
+### More Practice with basic vectorization and simple designs
+
+---
+
+#### Cartoon Styling
+
+Recreated the popular Superman emblem using bezier curves and paths
+
 ![Superman Cartoon SVG](./assets/superman-cartoon.png)
 
-2. Following the same technique as the Superman emblem, I recreated the Batman vector image, but only made half of the design and mirrored it as a means of improving workflow.
+---
+
+#### Batman Vector Diagram
+
+Following the same technique as the Superman emblem, I recreated the Batman vector image, but only made half of the design and mirrored it as a means of improving workflow.
+
 ![Batman SVG](./assets/batman.png)
 
-3. Worked with modifying text paths to create shapes. In this case, I streched and modified the word "Rhino" into the shape of the animal.
+---
+
+#### Text Path Manipulation
+
+Worked with modifying text paths to create shapes. In this case, I streched and modified the word "Rhino" into the shape of the animal.
+
 ![Rhino Text SVG](./assets/rhino.png)
 
-4. Began using skills I had been developing to vectorize a picture of a falcon.
-![Real Falcon Reference Image](./assets/falcon-real.png)
-![Vectorized Falcon SVG](./assets/falcon-vectorized.png)
+---
 
-5. Decided to work with basic shadows by making this mountain landscape below.
+#### Vectorizing A Picture of a falcon
+
+Began using skills I had been developing to vectorize a picture of a falcon.
+
+|               | Image        |
+| ------------- |:-------------|
+|Original       |![Real Falcon Reference Image](./assets/falcon-real.png "Original Picture") |
+|Vectorized     |![Vectorized Falcon SVG](./assets/falcon-vectorized.png "Vectorized Picture") |
+
+---
+
+#### Shadows
+
+Decided to work with basic shadows by making this mountain landscape below.
 ![Mountains SVG](./assets/mountains.png)
 
-###### Experiementation with realistic materials and shadings
+---
 
-1. Created a personal logo for use on USB drives
+### Experiementation with realistic materials and shadings
+
+---
+
+Created a personal logo for use on USB drives
+
 ![Shaan Patel Icon SVG](./assets/sp-icon.png)
 
-2. Created a realistic eyeball using highlights and shadows based on an online tutorial.
+---
+
+Created a realistic eyeball using highlights and shadows based on an online tutorial.
+
 ![Eyeball SVG](./assets/eyeball.png)
 
-3. Followed an online tutorial to create a realistic vector donut.
+---
+
+#### Vectorized Donut
+
+Followed an online tutorial to create a realistic vector donut.
+
 ![Donut SVG](./assets/donut.png)
 
-4. Followed and modified an online tutorial to generate a metallic Flash emblem
+---
+
+#### Metallics
+
+Followed and modified an online tutorial to generate a metallic Flash emblem
+
 ![Flash SVG](./assets/flash.png)
 
-5. Used a previous vector design and metallic texturing skills to create a metallic Superman emblem
-![Superman Metallic SVG](./assets/superman-metal.png)
+---
 
-## VFX Projects and 3D Animation
-1. Using Adobe After Effects to animate an introduction sequence for dance competition
-[![Watch the video](https://img.youtube.com/vi/VQMv1U2JWqg/maxresdefault.jpg)](https://youtu.be/VQMv1U2JWqg)
+#### Metallics Part II
 
-2. VFX Project using Adobe After Effects and Adobe Premiere Pro to create a motion tracking mask on moving wheels while compositing moving footage on top of the base footage.
-[![Watch the video](https://img.youtube.com/vi/GJv-U65XNjk/maxresdefault.jpg)](https://youtu.be/GJv-U65XNjk)
+Used a previous vector design and metallic texturing skills to create a metallic Superman emblem
 
-3. 3D logo animation rendered using Blender and composited with Adobe Premiere Pro for Georgia Tech Ramblin' Raas Team
-[![Watch the video](https://img.youtube.com/vi/dciWe07h1lU/maxresdefault.jpg)](https://youtu.be/dciWe07h1lU)
+![Superman Metallic  3SVG](./assets/superman-metal.png)
 
-5. 3D medieval-themed animation rendered using Blender and composited with Adobe Premiere Pro for 2021-22 Georgia Tech Ramblin' Raas set
-[![Watch the video](https://img.youtube.com/vi/rcvkA5g83Gw/maxresdefault.jpg)](https://youtu.be/rcvkA5g83Gw)
-
-7. First attempt at rendering a full animation with full procedural textures. Rendered using Blender Cycles engine.
-[![Watch the video](https://img.youtube.com/vi/gqqmBy4mpbA/maxresdefault.jpg)](https://youtu.be/gqqmBy4mpbA)
-
-9. 3D animation for promotional video of filament printed skateboard protectors. Rendered using traditional tri-point colored lighting setup in Blender Eevee.
-[![Watch the video](https://img.youtube.com/vi/QMTbAR0lh00/maxresdefault.jpg)](https://youtu.be/QMTbAR0lh00)
-
-11. Low poly lighthouse animation using Blender with moving waves. Rendered in Blender Cycles.
-[![Watch the video](https://img.youtube.com/vi/d1lLxWKWCDo/maxresdefault.jpg)](https://youtu.be/d1lLxWKWCDo)
-
-13. Research presentation video for annual Plant the Moon Challenge. Rendered 3D rocket footage in Blender Cycles, created information graphics in Canva, designed custom logo in Adobe Illustrator and Inkscape, and composited footage in Adobe Premiere Pro.
-[![Watch the video](https://img.youtube.com/vi/KyAGe81oZ-o/maxresdefault.jpg)](https://youtu.be/KyAGe81oZ-o)
-
-15. Render test of lighting shadows for upcoming underwater sequence. Custom made by altering the Voronoi present in Blender and changing distortion and evolution levels.
-[![Watch the video](https://img.youtube.com/vi/YNA_-XpOnXo/maxresdefault.jpg)](https://youtu.be/YNA_-XpOnXo)
+---
