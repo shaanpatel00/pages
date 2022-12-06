@@ -6,8 +6,7 @@
 
 3D medieval-themed animation rendered using Blender and composited with Adobe Premiere Pro for 2021-22 Georgia Tech Ramblin' Raas set
 
-[![Watch the video](https://img.youtube.com/vi/rcvkA5g83Gw/maxresdefault.jpg)](https://youtu.be/rcvkA5g83Gw)
-<iframe width="1428" height="777" src="https://www.youtube.com/embed/rcvkA5g83Gw" title="GTRR Medieval Cave Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rcvkA5g83Gw" title="GTRR Medieval Cave Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -15,8 +14,7 @@
 
 3D logo animation rendered using Blender and composited with Adobe Premiere Pro for Georgia Tech Ramblin' Raas Team
 
-[![Watch the video](https://img.youtube.com/vi/dciWe07h1lU/maxresdefault.jpg)](https://youtu.be/dciWe07h1lU)
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/dciWe07h1lU" title="GTRRLogoIntro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dciWe07h1lU" title="GTRRLogoIntro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -24,8 +22,7 @@
 
 Research presentation video for annual Plant the Moon Challenge. Rendered 3D rocket footage in Blender Cycles, created information graphics in Canva, designed custom logo in Adobe Illustrator and Inkscape, and composited footage in Adobe Premiere Pro.
 
-[![Watch the video](https://img.youtube.com/vi/KyAGe81oZ-o/maxresdefault.jpg)](https://youtu.be/KyAGe81oZ-o)
-<iframe width="1280" height="719" src="https://www.youtube.com/embed/KyAGe81oZ-o" title="Final PTMC Video1.3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KyAGe81oZ-o" title="Final PTMC Video1.3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -33,8 +30,7 @@ Research presentation video for annual Plant the Moon Challenge. Rendered 3D roc
 
 First attempt at rendering a full animation with full procedural textures. Rendered using Blender Cycles engine.
 
-[![Watch the video](https://img.youtube.com/vi/gqqmBy4mpbA/maxresdefault.jpg)](https://youtu.be/gqqmBy4mpbA)
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/gqqmBy4mpbA" title="Audi Night Render First Attempt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gqqmBy4mpbA" title="Audi Night Render First Attempt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -42,8 +38,7 @@ First attempt at rendering a full animation with full procedural textures. Rende
 
 3D animation for promotional video of filament printed skateboard protectors. Rendered using traditional tri-point colored lighting setup in Blender Eevee.
 
-[![Watch the video](https://img.youtube.com/vi/QMTbAR0lh00/maxresdefault.jpg)](https://youtu.be/QMTbAR0lh00)
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/QMTbAR0lh00" title="Skateboard Protector Animated Promo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QMTbAR0lh00" title="Skateboard Protector Animated Promo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -51,8 +46,7 @@ First attempt at rendering a full animation with full procedural textures. Rende
 
 Low poly lighthouse animation using Blender with moving waves. Rendered in Blender Cycles.
 
-[![Watch the video](https://img.youtube.com/vi/d1lLxWKWCDo/maxresdefault.jpg)](https://youtu.be/d1lLxWKWCDo)
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/d1lLxWKWCDo" title="Low Poly Lighthouse Render" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d1lLxWKWCDo" title="Low Poly Lighthouse Render" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -60,8 +54,7 @@ Low poly lighthouse animation using Blender with moving waves. Rendered in Blend
 
 Render test of lighting shadows for upcoming underwater sequence. Custom made by altering the Voronoi present in Blender and changing distortion and evolution levels.
 
-[![Watch the video](https://img.youtube.com/vi/YNA_-XpOnXo/maxresdefault.jpg)](https://youtu.be/YNA_-XpOnXo)
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/YNA_-XpOnXo" title="Procedural Voronoi Light Source Water Shadow Caster Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="561" height="315" src="https://www.youtube.com/embed/YNA_-XpOnXo" title="Procedural Voronoi Light Source Water Shadow Caster Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -71,8 +64,7 @@ Render test of lighting shadows for upcoming underwater sequence. Custom made by
 
 Using Adobe After Effects to animate an introduction sequence for dance competition
 
-[![Watch the video](https://img.youtube.com/vi/VQMv1U2JWqg/maxresdefault.jpg)](https://youtu.be/VQMv1U2JWqg)
-<iframe width="1280" height="722" src="https://www.youtube.com/embed/VQMv1U2JWqg" title="Shaan Dhoom Dynasty Dance Round 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VQMv1U2JWqg" title="Shaan Dhoom Dynasty Dance Round 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -80,8 +72,7 @@ Using Adobe After Effects to animate an introduction sequence for dance competit
 
 VFX Project using Adobe After Effects and Adobe Premiere Pro to create a motion tracking mask on moving wheels while compositing moving footage on top of the base footage.
 
-[![Watch the video](https://img.youtube.com/vi/GJv-U65XNjk/maxresdefault.jpg)](https://youtu.be/GJv-U65XNjk)
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/GJv-U65XNjk" title="Hoverboard VFX Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GJv-U65XNjk" title="Hoverboard VFX Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
