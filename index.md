@@ -6,7 +6,7 @@
 
 3D underwater-themed animation rendered using Blender and composited with Adobe Premiere Pro for 2022-23 Georgia Tech Ramblin' Raas set. First time using the LuxCore Render Engine to enable caustics and complex screen-space refractions.
 
-<iframe width="560" height="315" src="https://youtu.be/cIeYP0xLKrM" title="GTRR Underwater Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cIeYP0xLKrM" title="GTRR Underwater Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
