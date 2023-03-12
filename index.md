@@ -1,6 +1,11 @@
 # Shaan Patel Design & Animation Portfolio
 
 ---
+## 3D Project Using Blender and Adobe Premiere Pro
+
+3D underwater-themed animation rendered using Blender and composited with Adobe Premiere Pro for 2022-23 Georgia Tech Ramblin' Raas set. Animated all 3D footage in Blender and color graded the footage in Adobe Premiere Pro to emphasize shadows and improve realism. Edited music with Audacity and had great experience working with particle systems and the wave modifier.
+
+<iframe width="560" height="315" src="https://youtu.be/embed/t2-drgXvufM" title="GTRR Underwater Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 3D Animation With LuxCore Render Engine
 
